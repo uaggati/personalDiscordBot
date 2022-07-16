@@ -1,0 +1,5 @@
+discord-py-interactions
+aiohttp==3.8.1
+requests
+bs4
+cryptocompare
